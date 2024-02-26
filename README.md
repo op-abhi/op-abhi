@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @op-abhi
-- 👀 I’m interested in cyber security and malware development
-- 🌱 I’m currently learning penetration testing
+- 👋 Hi, I’m @abhinay-iragavarapu
 - 📫 How to reach me - ideabhi000@gmail.com
 
 <!---
